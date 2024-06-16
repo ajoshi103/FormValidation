@@ -1,0 +1,61 @@
+button{
+     width: 100px;
+     height: 100px;
+}
+
+
+body{
+     font-family: sans-serif;
+     padding: 0px;
+     box-sizing: border-box;
+     background:linear-gradient(-45deg, skyblue, whitesmoke);
+     
+}
+
+
+#password{
+     display: flex;
+     flex-direction: row;
+     height: 200px;
+   
+         background-color: rgb(215, 215, 196);
+    
+    font-weight: bold;
+     padding: 10px;
+     font-family: Oxygen;
+     margin-top:  100px;
+     justify-content: center;
+     justify-items: center;
+     text-decoration:solid;
+     
+     border: 4px solid rgb(235, 232, 226);
+     box-sizing: inherit;
+    
+   
+}
+
+input:hover{
+  
+     background-color: rgb(74, 68, 68);
+     color: white;
+}
+
+
+
+header{
+     background-color: skyblue;
+    
+     padding: 10px;
+     border-radius: 10px;
+     box-sizing: inherit;
+     
+}
+
+
+input{
+  
+     padding: 2px;
+     display: block;
+     border-radius: 4px;
+
+}
